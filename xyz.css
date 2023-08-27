@@ -1,0 +1,79 @@
+body{
+   background-color:  #363636;
+   font-family: 'Open Sans', sans-serif;
+font-family: 'Plus Jakarta Sans', sans-serif;
+color: #f8f6f4;
+}
+.main-container{
+    background-color: #363636;
+    display: flex;
+    
+}
+.profile-container{
+border: #fafafa solid 1px;
+padding-left: 10px;
+border-radius: 15px;
+
+}
+.profile-logo{
+    height: 30px;
+    border-radius: 20px;
+}
+.profile-pic{
+    height: 250px;
+    padding-left: 10px;
+}
+.introduction{
+    width: 50%;
+    margin: 30px;
+}
+.aboutsproject{
+    flex-direction: row-reverse;
+    margin-top: 370px;
+    background-color: #393e46;
+}
+.education{
+    margin: 45px;
+    padding-left: 235px;
+    border: #fafafa solid 1px;
+    border-radius: 20px;
+    width: 71%
+}
+.skills-logo{
+    height: 60px;
+    padding: 20px;
+}
+.skills{
+    border: #fafafa solid 1px;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 20px;
+    width: 90%;
+    margin: 45px;
+}
+.contacts{
+    width: 71%;
+    border: #fafafa solid 1px;
+    border-radius: 20px;
+    margin: 45px;
+    padding-left: 235px;
+}
+#exampleInputfullname{
+    margin: 20px;
+    padding: 2px 20px;
+}
+#exampleInputEmail1{
+    margin: 20px;
+    padding: 2px 20px;
+}
+#exampleInputphoneno{
+    margin: 20px;
+    padding: 2px 20px;
+}
+#exampleInputmessage{
+    margin: 20px;
+    padding: 50px;
+}
+.btn{
+    margin: 10px;
+}
